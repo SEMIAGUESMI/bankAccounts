@@ -1,0 +1,3 @@
+module BANKACCOUNTS
+
+go 1.24.0
