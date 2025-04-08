@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "BANKACCOUNTS/mongo"
 
 func main() {
-	fmt.Println("hello Ameni !")
+	mongo.ConnectToMongo()
 }
